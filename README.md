@@ -26,7 +26,8 @@
 
 
 <h1 align="center">
-  hey there
+  # 👋 Hello, I'm Bharath B!
+  I'm a passionate Software Developer with expertise in various technologies. Here's a glimpse of who I am:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
