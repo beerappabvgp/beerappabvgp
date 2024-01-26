@@ -83,11 +83,8 @@ https://github-readme-streak-stats.herokuapp.com/?user=beerappabvgp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beerappabvgp)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **beerappabvgp/beerappabvgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
