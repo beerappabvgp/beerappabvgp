@@ -44,7 +44,7 @@ I'm Bharath, a passionate Full Stack Developer from India <img src="https://medi
 
 - 📝 Exploring the world of Technical Content Writing.
 
-- ⚡ In my free time, I enjoy solving problems on GeeksforGeeks and reading tech articles.
+- ⚡ In my free time, I enjoy solving problems on Leetcode and reading tech articles.
 
 - 📧 Reach me on [![Linkedin Badge](https://img.shields.io/badge/Connect_with_me_on-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/b-bharath-140836250/)
 .
