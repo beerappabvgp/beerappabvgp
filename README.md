@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LeetCode-25-green?style=for-the-badge&logo=leetcode" alt="LeetCode Badge"/>
   </a>
 
-  <a href="discordapp.com/users/1167878016089726988" target="_blank">
+  <a href="https://discordapp.com/users/1167878016089726988" target="_blank">
     <img src="https://img.shields.io/badge/Discord-1167878016089726988-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 
